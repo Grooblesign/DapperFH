@@ -1,0 +1,4 @@
+C:\dev\projects\DapperConsole\DapperLib\bin\Debug\DapperLib.dll
+C:\dev\projects\DapperConsole\DapperLib\bin\Debug\DapperLib.pdb
+C:\dev\projects\DapperConsole\DapperLib\obj\Debug\DapperLib.dll
+C:\dev\projects\DapperConsole\DapperLib\obj\Debug\DapperLib.pdb

@@ -1,0 +1,10 @@
+C:\dev\Projects\DapperConsole\DapperConsole\obj\Debug\DapperConsole.csprojResolveAssemblyReference.cache
+C:\dev\Projects\DapperConsole\DapperConsole\bin\Debug\DapperConsole.exe
+C:\dev\Projects\DapperConsole\DapperConsole\bin\Debug\DapperConsole.pdb
+C:\dev\Projects\DapperConsole\DapperConsole\bin\Debug\Dapper.dll
+C:\dev\Projects\DapperConsole\DapperConsole\bin\Debug\Dapper.pdb
+C:\dev\Projects\DapperConsole\DapperConsole\bin\Debug\Dapper.xml
+C:\dev\Projects\DapperConsole\DapperConsole\obj\Debug\DapperConsole.exe
+C:\dev\Projects\DapperConsole\DapperConsole\obj\Debug\DapperConsole.pdb
+C:\dev\projects\DapperConsole\DapperConsole\bin\Debug\DapperLib.dll
+C:\dev\projects\DapperConsole\DapperConsole\bin\Debug\DapperLib.pdb

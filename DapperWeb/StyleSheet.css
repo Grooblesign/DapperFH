@@ -1,0 +1,44 @@
+﻿* {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+    color: black;
+    background-color: blanchedalmond;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+h1 {
+    border-style: solid;
+    border-width: thin;
+    padding: 0.5em;
+    color: white;
+    background-color: navy;
+}
+table {
+    border: medium solid;
+    border-color: darkgray;
+    border-collapse: collapse;
+    background-color: cornsilk; 
+}
+thead td {
+    border: thin solid;
+    border-color: darkgray;
+    padding: 0.25em;
+}
+thead td, .parentCell {
+    background-color: navy;
+    color: white;
+}
+td {
+    border: thin solid;
+    border-color: darkgray;
+    padding: 0.25em;
+}
+tr[type="primary"] {
+    font-weight: bold;
+}
+a {
+    color: navy;
+}
